@@ -1,5 +1,5 @@
 {
-    "name":"2U4CDQLAJD/CsvReader",
+    "name":"2U4CDQLAJD/csv-reader",
 
     "autoload": {
         "classmap": [
